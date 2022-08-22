@@ -18,7 +18,6 @@ double MinMaxNumber(double[] arr)
     }
     double res = max - min;
     return res;
-
 }
 
 double result = MinMaxNumber(array);
